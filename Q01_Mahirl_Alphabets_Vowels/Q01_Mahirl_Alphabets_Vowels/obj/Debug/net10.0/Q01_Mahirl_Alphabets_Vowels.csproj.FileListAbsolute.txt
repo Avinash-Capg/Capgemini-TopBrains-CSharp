@@ -1,0 +1,14 @@
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.exe
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.deps.json
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.runtimeconfig.json
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.dll
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\bin\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.pdb
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.AssemblyInfoInputs.cache
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.AssemblyInfo.cs
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.csproj.CoreCompileInputs.cache
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.dll
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\refint\Q01_Mahirl_Alphabets_Vowels.dll
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.pdb
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\Q01_Mahirl_Alphabets_Vowels.genruntimeconfig.cache
+C:\Users\Mr_Dark\source\repos\Capgemini-TopBrains-CSharp\Q01_Mahirl_Alphabets_Vowels\Q01_Mahirl_Alphabets_Vowels\obj\Debug\net10.0\ref\Q01_Mahirl_Alphabets_Vowels.dll
